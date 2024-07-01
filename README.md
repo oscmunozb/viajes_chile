@@ -1,18 +1,17 @@
-# Prueba - Viajes Chile &#127758; &#9992; &#128511;&#128511; 
-
+# &#127758; Prueba - Viajes Chile &#9992;
 **Viajes Chile** corresponde al proyecto final del módulo **Fundamentos de desarrollo front-end** (Talento Digital - Desafío Latam).
 
-- Página de GitHub: [Viajes Chile &#128511;&#128511;](https://oscmunozb.github.io/viajes_chile/)
+- Página de GitHub: [Viajes Chile](https://oscmunozb.github.io/viajes_chile/)
 
-## Tabla de contenidos
+## &#128511; Tabla de contenidos
 - Descripción
 - Tecnologías utilizadas
 - Cómo clonar el proyecto
 
-## Descripción 
+## &#128039; Descripción 
 El proyecto consiste en realizar el landing page de la agencia **Viajes Chile** utilizando los conocimientos adquiridos a través de las distintas unidades del módulo.
 
-## Tecnologías utilizadas
+## &#128507; Tecnologías utilizadas
 Este proyecto utiliza las siguientes tecnologías:
 - HTML5
 - CSS3
@@ -27,7 +26,7 @@ Este proyecto utiliza las siguientes tecnologías:
 - GitHub
 - GitHub Pages
 
-## Cómo clonar el proyecto
+## &#129433; Cómo clonar el proyecto
 ```bash
 git clone https://github.com/oscmunozb/viajes_chile.git
 ```
