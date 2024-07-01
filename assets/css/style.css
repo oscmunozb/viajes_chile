@@ -1,6 +1,8 @@
 /* General */
 * {
     font-family: 'Work Sans', sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 html {

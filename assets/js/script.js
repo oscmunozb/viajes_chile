@@ -1,4 +1,4 @@
-// Cambio de color del navbar
+// Cambio de color del navbar (cambio de bg-opacity)
 const navbar = document.getElementById("navbar-fixed");
 window.onscroll = function funcionNav() {
     if (document.documentElement.scrollTop >= 210) {
@@ -11,6 +11,6 @@ window.onscroll = function funcionNav() {
     }
 };
 
-// Tooltip
+// Tooltip de Bootstrap
 const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
 const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
